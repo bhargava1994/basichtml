@@ -1,0 +1,16 @@
+li{
+  display:inline;
+  padding-right: 10px;
+}
+ul a{
+  text-decoration: none;
+  color:#D3D3D3;
+}
+ul a:hover {
+  /*this is to describe that when the mouse is kept on the list element then itwill highlight*/
+  text-decoration:underline;
+  /*this is to desccribe the fontsize when the mouse is kept on the button
+ font-size: 20px;*/
+ /*when mouse is kept on list elements then the color will be displayed*/
+color: black;
+}
